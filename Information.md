@@ -101,16 +101,19 @@ Education is a key mobility gateway that influences jobs, income, health, and lo
 ## Institution #3: Economy
 
 ### What it does
+
 - Organizes jobs, wages, business, and markets.
 - Distributes income, wealth, and material security.
 - Shapes access to housing, healthcare, safety, and time.
 
 ### Why it matters
-Economic position strongly affects daily life choices, stress levels, educational options, and long-term freedom.
+
+Economic position strongly affects daily life choices, stress levels, educational options, and long-term freedom. Importantly, economic status interacts with other institutions, such as family and education, in ways that can reinforce inequality or, in some cases, help overcome it. For example, families with greater economic resources can offer better access to quality education, extracurricular programs, and academic support, thereby increasing their children's advantages. In contrast, families with limited means often face added challenges in supporting educational success, which can limit social mobility. Schools located in wealthier neighborhoods typically provide more resources and opportunities, while those in less affluent areas may struggle with underfunding. These interactions among family resources, education, and economic systems help explain why inequalities can persist across generations. However, policies such as increased school funding in low-income neighborhoods or need-based scholarships for postsecondary education can help address these disparities and provide more equitable opportunities. Such interventions show that social and economic inequalities are not inevitable and can be reduced through thoughtful policymaking.
 
 ### How it contributes to inequality
+
 - **Class:** Wealth compounds over time; lack of wealth increases vulnerability to shocks (job loss, medical debt, rent spikes).
-- **Race/ethnicity:** Persistent racial wealth gaps affect neighborhood options, school quality, and business capital.
+- **Race/ethnicity:**  Persistent racial wealth gaps affect neighborhood options, school quality, and business capital. These wealth gaps are rooted in historical and systemic factors, such as housing discrimination, redlining, and unequal access to jobs and credit. Past policies and ongoing discrimination have limited the ability of many communities of color to accumulate and transfer wealth across generations, which helps explain why these gaps continue to exist. Economic inequality also interacts with other institutions, like education and family. For example, families with fewer resources may have less ability to move to neighborhoods with high-quality schools, while disparities in school funding and educational opportunities can reinforce existing economic divides. This interplay highlights how multiple institutions work together to shape and maintain ongoing inequalities. In short, institutions reinforce each other's inequalities.
 - **Gender:** Pay gaps and caregiving expectations reduce lifetime earnings and retirement security.
 
 ### Key statistics
