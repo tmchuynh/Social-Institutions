@@ -163,19 +163,22 @@ Economic position strongly affects daily life choices, stress levels, educationa
 ## Institution #4: Religion
 
 ### What it does
-- Religion is one of the oldest social institutions and has shaped societies since early human communities.
+
+- Religion is one of the oldest social institutions and has shaped societies since early human communities. For example, in ancient Egypt, religious beliefs were deeply intertwined with the organization of political power and the construction of monumental architecture, such as the pyramids. During the Middle Ages in Europe, the Catholic Church was a central force in governing daily life, education, and politics. In South Asia, Hinduism has influenced the structure of society for thousands of years, notably shaping the caste system. These examples show how religion has played a formative role across different eras and cultures.
 - It influences social behavior, political systems, cultural practices, and moral expectations.
 - It connects people through shared beliefs, rituals, and organized communities.
 
 ### Why it matters
-- Religion offers belonging and support through denominations, sects, and other faith communities.
-- Shared values and spiritual practices can improve well-being, meaning, and social stability.
+
+- Religion offers a sense of belonging and support through denominations, sects, and other faith communities.
+- Shared values and spiritual practices can improve well-being, meaning, and social stability. However, religious beliefs and practices can also lead to conflicts or the exclusion of those with differing views. For instance, the conflict between Catholics and Protestants in Northern Ireland throughout the late twentieth century, often referred to as 'The Troubles,' demonstrates how religious divisions can contribute to social conflict, violence, and long-term mistrust within a society. Recognizing both the positive and negative effects of religion is important for understanding its complex role in society.
 - For many families, religion provides structure, purpose, and intergenerational guidance.
 
 ### How it contributes to inequality
-- **Class and wealth:** Following Weber's argument about Protestant ethic and capitalism, religious values can become linked to ideas about who is "deserving" of success, reinforcing wealth gaps between groups.
-- **Gender:** Some religious institutions maintain patriarchal gender roles, limiting women's authority and opportunities.
-- **Race/ethnicity:** U.S. religious life remains highly segregated in many places, and religious communities often reflect broader racial and economic inequality.
+
+- Class and wealth: Following Weber’s argument about the Protestant ethic and capitalism, religious values can become linked to ideas about who is “deserving” of success, reinforcing wealth gaps between groups. For example, in some contemporary societies, prosperity gospel churches teach that wealth is a sign of moral virtue and divine favor, which can shape how individuals perceive poverty and success and may influence public attitudes toward social welfare policies. Other sociological perspectives also offer insight. Durkheim argued that religion contributes to social cohesion, but can also reinforce existing social hierarchies. This can be seen today in how religious organizations sometimes support established elites or status groups, maintaining traditional social orders. Marx viewed religion as a tool used by dominant classes to maintain their power by justifying inequality as natural or divinely ordained. A modern example includes political leaders invoking religious language to legitimize economic inequalities, or the use of religious rhetoric in justifying policies that favor privileged groups.
+- Gender: Some religious institutions maintain patriarchal gender roles, limiting women’s authority and opportunities. For example, in the Roman Catholic Church, only men can become priests or hold certain leadership positions, which restricts the role women can play within the institution. However, it is important to note that gender roles and leadership opportunities for women vary across religious traditions. Some religions, such as certain branches of Protestant Christianity and Reform Judaism, permit women to serve as clergy or leaders, while others may hold more egalitarian views on gender participation within their communities.
+- Race/ethnicity: U.S. religious life remains highly segregated in many places, and religious communities often reflect broader racial and economic inequality. For example, a 2012 study by the Pew Research Center found that more than 80 percent of American churchgoers attend congregations where a single racial or ethnic group makes up at least 80 percent of the membership, demonstrating persistent racial segregation within religious organizations. More recent research from the Pew Research Center in 2021 indicates that while there has been a slight increase in racial diversity in some congregations, most worshippers in the United States still predominantly attend services with others of the same racial or ethnic background. This ongoing segregation highlights how religion can reflect and reinforce broader patterns of racial and ethnic division.
 
 ### Key statistics
 
