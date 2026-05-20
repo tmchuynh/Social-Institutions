@@ -1,4 +1,4 @@
-- **Institutions chosen:** Family, Education, Economy, Religion
+﻿- **Institutions chosen:** Family, Education, Economy, Religion
 - These institutions shape life chances by distributing:
   - **Resources** (money, time, stability)
   - **Credentials** (degrees, status)
@@ -8,8 +8,9 @@
 ## Institution #1: Family
 
 ### What it does
-- Socializes children (language, values, gender roles, and ideas of success).
-- Provides emotional support, caregiving, identity, and belonging.
+
+- Socializes children (language, values, gender roles, and ideas of success). From a sociological perspective, functionalist theory views the family as essential for passing on shared norms and values that help society function smoothly. In contrast, conflict theory highlights how family socialization can reinforce inequalities by transmitting privilege, status, or traditional roles.
+- Provides emotional support, caregiving, identity, and a sense of belonging. According to functionalist theory, the family institution plays a key role in maintaining stability and cohesion in society by fostering these essential qualities. For example, parental guidance in making important life decisions or encouragement from parents during difficult times can shape confidence. Sibling support, like helping with homework or navigating social challenges, also reinforces a sense of security and identity within the family. Furthermore, drawing on the concept of social capital—meaning the helpful connections and resources you get from relationships—families help build networks and resources that individuals can use throughout their lives.
 - Transfers practical advantages: money, housing stability, social networks, and institutional knowledge.
 
 ### Why it matters
