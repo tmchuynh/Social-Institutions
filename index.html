@@ -9,14 +9,16 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reset.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.css">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="./main.css" rel="stylesheet" />
 
 </head>
 
 <body>
     <div class="reveal">
-        <button class="js-toggle-fullscreen-btn toggle-fullscreen-btn" aria-label="Enter fullscreen mode" id="fullscreenToggle">
+        <button class="js-toggle-fullscreen-btn toggle-fullscreen-btn" aria-label="Enter fullscreen mode"
+            id="fullscreenToggle">
             <svg class="toggle-fullscreen-svg" width="28" height="28" viewBox="-2 -2 28 28">
                 <g class="icon-fullscreen-enter">
                     <path d="M 2 9 v -7 h 7" />
@@ -34,51 +36,88 @@
         </button>
 
         <div class="slides">
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="justify-center si-wrap">
-                    <p class="si-kicker">Sociology Presentation</p>
-                    <h1 class="si-title">Social Institutions Shape Who Gets Opportunity and Who Faces Barriers</h1>
-                    <p class="si-sub fragment fade-in">Family, Education, Economy, and Religion do not act separately. They distribute resources, credentials, networks, expectations, and social power.</p>
-                    <div class="si-grid-3 fragment fade-up">
-                        <div class="si-card"><h3>Family</h3><p>Sets the starting line through wealth, expectations, and socialization.</p></div>
-                        <div class="si-card"><h3>Education</h3><p>Sorts people into pathways and credentials that shape life chances.</p></div>
-                        <div class="si-card"><h3>Economy + Religion</h3><p>Determine material security, identity, belonging, and social boundaries.</p></div>
-                    </div>
+                    <h1 class="si-title">Social Institutions Shape Who Gets <br />Opportunity and Who Faces Barriers
+                    </h1>
                     <div class="si-accent-line"></div>
+                    <p class="si-sub fragment fade-in">Family, Education, Economy, and Religion do not act separately.
+                        <br />They distribute resources, credentials, networks, expectations, and social power.
+                    </p>
+                    <div class="si-grid-3 fragment fade-up">
+                        <div class="si-card">
+                            <h3>Family</h3>
+                            <p>Sets the starting line through wealth, expectations, and socialization.</p>
+                        </div>
+                        <div class="si-card">
+                            <h3>Education</h3>
+                            <p>Sorts people into pathways and credentials that shape life chances.</p>
+                        </div>
+                        <div class="si-card">
+                            <h3>Economy + Religion</h3>
+                            <p>Determine material security, identity, belonging, and social boundaries.</p>
+                        </div>
+                    </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Framework</p>
                     <h2 class="si-title">How Inequality Is Produced</h2>
-                    <div class="si-grid-2">
-                        <div class="si-card fragment fade-up">
+                    <div class="w-1/2">
+                        <div class="flex flex-col gap-2 si-card fragment fade-up" data-fragment-index="2">
                             <h3>Institutions Distribute</h3>
-                            <p><span class="si-chip">Resources</span><span class="si-chip">Credentials</span><span class="si-chip">Networks</span><span class="si-chip">Norms</span></p>
-                            <p>Who receives support, mentorship, and protection is socially patterned, not random.</p>
-                        </div>
-                        <div class="si-card fragment fade-up" data-fragment-index="2">
-                            <h3>Stratification Dimensions</h3>
-                            <p>Class, race/ethnicity, and gender interact at the same time, creating layered advantages and disadvantages.</p>
+                            <p>Who receives support,mentorship, and protection is socially patterned, not random.</p>
+                            <div class="flex gap-2 mt-2">
+                                <div
+                                    class="inline-flex inset-ring inset-ring-green-600/20 items-center bg-green-50 dark:bg-green-400/10 px-2 py-1 rounded-full font-medium text-green-700 text-xs">
+                                    Resources</div>
+                                <div
+                                    class="inline-flex inset-ring inset-ring-green-600/20 items-center bg-green-50 dark:bg-green-400/10 px-2 py-1 rounded-full font-medium text-green-700 text-xs">
+                                    Credentials</div>
+                                <div
+                                    class="inline-flex inset-ring inset-ring-green-600/20 items-center bg-green-50 dark:bg-green-400/10 px-2 py-1 rounded-full font-medium text-green-700 text-xs">
+                                    Networks</div>
+                                <div
+                                    class="inline-flex inset-ring inset-ring-green-600/20 items-center bg-green-50 dark:bg-green-400/10 px-2 py-1 rounded-full font-medium text-green-700 text-xs">
+                                    Norms</div>
+                            </div>
                         </div>
                     </div>
-                    <div class="si-grid-3">
-                        <div class="si-card fragment fade-up" data-fragment-index="3"><h3>Class</h3><p>Asset buffers, school quality, and reduced risk exposure.</p></div>
-                        <div class="si-card fragment fade-up" data-fragment-index="4"><h3>Race/Ethnicity</h3><p>Unequal wealth, segregation, and institutional bias across systems.</p></div>
-                        <div class="si-card fragment fade-up" data-fragment-index="5"><h3>Gender</h3><p>Role expectations, pay gaps, and unequal authority structures.</p></div>
+                    <div class="flex flex-col gap-4">
+                        <div class="si-card fragment fade-up" data-fragment-index="3">
+                            <h3>Stratification Dimensions</h3>
+                            <p>Class, race/ethnicity, and gender interact at the same time, creating layered advantages
+                                and disadvantages.</p>
+                        </div>
+                        <div class="gap-4 grid grid-cols-3">
+                            <div class="si-card fragment fade-up" data-fragment-index="4">
+                                <h3>Class</h3>
+                                <p>Asset buffers, school quality, and reduced risk exposure.</p>
+                            </div>
+                            <div class="si-card fragment fade-up" data-fragment-index="5">
+                                <h3>Race/Ethnicity</h3>
+                                <p>Unequal wealth, segregation, and institutional bias across systems.</p>
+                            </div>
+                            <div class="si-card fragment fade-up" data-fragment-index="6">
+                                <h3>Gender</h3>
+                                <p>Role expectations, pay gaps, and unequal authority structures.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Institution 1</p>
                     <h2 class="si-title">Family: The Starting Line Is Unequal</h2>
-                    <div class="si-grid-2">
-                        <div class="si-card">
+                    <div class="flex gap-5">
+                        <div class="si-card fragment fade-up" data-fragment-index="2">
                             <h3>Key Claim</h3>
-                            <p>Family transmits money, confidence, norms, and insider knowledge before school and work institutions fully take over.</p>
+                            <p>Family transmits money, confidence, norms, and insider knowledge before school and work
+                                institutions fully take over.</p>
                             <div class="si-grid-2 mt-3">
                                 <div>
                                     <div class="si-stat">26%</div>
@@ -90,25 +129,33 @@
                                 </div>
                             </div>
                         </div>
-                        <img class="si-image fragment fade-in" src="./adults_with%26without_college_educated_parent.png" alt="Pew chart showing bachelor completion gap by parental education">
+                        <img class="si-image fragment fade-in" data-fragment-index="3"
+                            src="./adults_with%26without_college_educated_parent.png"
+                            alt="Pew chart showing bachelor completion gap by parental education">
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Family Evidence</p>
                     <h2 class="si-title">Parental Education Shapes Degree Odds, Income, and Wealth</h2>
                     <div class="si-grid-3">
-                        <img class="si-image fragment fade-up" src="./adults_w_parents_likely_to_attain_bachelors.png" alt="Adults with college graduate parents more likely to attain bachelor's">
-                        <img class="si-image fragment fade-up" src="./household_income_dependent_on_parent_education.png" alt="Household incomes higher for those with college educated parent">
-                        <img class="si-image fragment fade-up" src="./type_of_college_dependent_on_parental_education.png" alt="Type of college attended varies by parental education">
+                        <img class="si-image fragment fade-up" src="./adults_w_parents_likely_to_attain_bachelors.png"
+                            alt="Adults with college graduate parents more likely to attain bachelor's">
+                        <img class="si-image fragment fade-up"
+                            src="./household_income_dependent_on_parent_education.png"
+                            alt="Household incomes higher for those with college educated parent">
+                        <img class="si-image fragment fade-up"
+                            src="./type_of_college_dependent_on_parental_education.png"
+                            alt="Type of college attended varies by parental education">
                     </div>
-                    <p class="si-footer-note">These patterns show intergenerational advantage: family background is not just values; it is structural access.</p>
+                    <p class="si-footer-note">These patterns show intergenerational advantage: family background is not
+                        just values; it is structural access.</p>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Institution 2</p>
                     <h2 class="si-title">Education: A Mobility Gateway, But Not an Equal Ladder</h2>
@@ -121,16 +168,23 @@
                                 <li>Bias in expectations and tracking shapes opportunity access.</li>
                             </ul>
                             <div class="si-grid-2 mt-4">
-                                <div><div class="si-stat">$15.2k</div><p>Public 4-year average net price</p></div>
-                                <div><div class="si-stat">$29.7k</div><p>Private nonprofit 4-year average net price</p></div>
+                                <div>
+                                    <div class="si-stat">$15.2k</div>
+                                    <p>Public 4-year average net price</p>
+                                </div>
+                                <div>
+                                    <div class="si-stat">$29.7k</div>
+                                    <p>Private nonprofit 4-year average net price</p>
+                                </div>
                             </div>
                         </div>
-                        <img class="si-image fragment fade-in" src="./avg_cost_attending_undergrad.png" alt="NCES chart of average cost of attending undergraduate institutions">
+                        <img class="si-image fragment fade-in" src="./avg_cost_attending_undergrad.png"
+                            alt="NCES chart of average cost of attending undergraduate institutions">
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Institution 3</p>
                     <h2 class="si-title">Economy: Income, Wealth, and Risk Are Unevenly Distributed</h2>
@@ -139,32 +193,44 @@
                             <h3>Current Income Snapshot (Census 2024)</h3>
                             <div class="si-stat">$83,730</div>
                             <p>U.S. real median household income.</p>
-                            <p class="mt-2"><span class="si-danger">80.9%</span> female-to-male earnings ratio (full-time, year-round workers).</p>
-                            <p class="mt-2"><span class="si-gold">24%</span> of Black households and about <span class="si-gold">1 in 7</span> Hispanic households had zero/negative wealth (Pew 2021 data).</p>
+                            <p class="mt-2"><span class="si-danger">80.9%</span> female-to-male earnings ratio
+                                (full-time, year-round workers).</p>
+                            <p class="mt-2"><span class="si-gold">24%</span> of Black households and about <span
+                                    class="si-gold">1 in 7</span> Hispanic households had zero/negative wealth (Pew 2021
+                                data).</p>
                         </div>
-                        <img class="si-image fragment fade-in" src="./Real%20Median%20Household%20Income%20by%20Race%20and%20Hispanic%20Origin%201967%20to%202024.png" alt="Census chart of real median household income by race">
+                        <img class="si-image fragment fade-in"
+                            src="./Real%20Median%20Household%20Income%20by%20Race%20and%20Hispanic%20Origin%201967%20to%202024.png"
+                            alt="Census chart of real median household income by race">
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Economy Evidence</p>
                     <h2 class="si-title">Pay, Poverty, and Opportunity Gaps Persist</h2>
                     <div class="si-grid-3">
-                        <img class="si-image fragment fade-up" src="./Median%20Earnings%20and%20Percent%20Change%20by%20Work%20Status%20and%20Sex.png" alt="Census earnings change by sex">
-                        <img class="si-image fragment fade-up" src="./Number%20in%20Poverty%20and%20Poverty%20Rate%20Using%20the%20Official%20Poverty%20Measure%201959%20to%202024.png" alt="Census poverty trend chart">
-                        <img class="si-image fragment fade-up" src="./Total%20and%20Full-Time,%20Year-Round%20Workers%20With%20Earnings%20by%20Sex%201967%20to%202023.png" alt="Census trend of full-time year-round workers by sex">
+                        <img class="si-image fragment fade-up"
+                            src="./Median%20Earnings%20and%20Percent%20Change%20by%20Work%20Status%20and%20Sex.png"
+                            alt="Census earnings change by sex">
+                        <img class="si-image fragment fade-up"
+                            src="./Number%20in%20Poverty%20and%20Poverty%20Rate%20Using%20the%20Official%20Poverty%20Measure%201959%20to%202024.png"
+                            alt="Census poverty trend chart">
+                        <img class="si-image fragment fade-up"
+                            src="./Total%20and%20Full-Time,%20Year-Round%20Workers%20With%20Earnings%20by%20Sex%201967%20to%202023.png"
+                            alt="Census trend of full-time year-round workers by sex">
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Institution 4</p>
                     <h2 class="si-title">Religion: Belonging, Meaning, and Social Boundaries</h2>
                     <div class="si-grid-2">
-                        <img class="si-image fragment fade-in" src="./religion_after_pandemic.png" alt="Pew chart showing Americans likely to say pandemic made faith stronger">
+                        <img class="si-image fragment fade-in" src="./religion_after_pandemic.png"
+                            alt="Pew chart showing Americans likely to say pandemic made faith stronger">
                         <div class="si-card">
                             <h3>Why Religion Matters Sociologically</h3>
                             <ul class="pl-5 list-disc">
@@ -172,56 +238,77 @@
                                 <li>Can transmit norms about family, gender, and authority.</li>
                                 <li>Can reduce isolation but can also reproduce segregation and inequality.</li>
                             </ul>
-                            <p class="mt-3"><strong>28%</strong> of U.S. adults in Pew's cross-national COVID-era survey said their own faith became stronger.</p>
+                            <p class="mt-3"><strong>28%</strong> of U.S. adults in Pew's cross-national COVID-era survey
+                                said their own faith became stronger.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Religion Evidence</p>
                     <h2 class="si-title">Religious Socialization Happens Across Generations</h2>
                     <div class="si-grid-2">
-                        <img class="si-image" src="./parents_opinion_on_childrens_faith.png" alt="Pew chart: 46 percent of parents say children regularly pray at night">
-                        <img class="si-image" src="./age_difference_religion_relationship_due_to_covid.png" alt="Pew chart showing younger people reported tighter family relationships during COVID">
+                        <img class="si-image" src="./parents_opinion_on_childrens_faith.png"
+                            alt="Pew chart: 46 percent of parents say children regularly pray at night">
+                        <img class="si-image" src="./age_difference_religion_relationship_due_to_covid.png"
+                            alt="Pew chart showing younger people reported tighter family relationships during COVID">
                     </div>
-                    <p class="si-footer-note">Religion intersects with family structure, school choices, identity formation, and support networks.</p>
+                    <p class="si-footer-note">Religion intersects with family structure, school choices, identity
+                        formation, and support networks.</p>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="si-wrap">
                     <p class="si-kicker">Intersection</p>
                     <h2 class="si-title">These Institutions Form a Reinforcing System</h2>
                     <div class="si-grid-2">
                         <div class="si-card fragment fade-up">
                             <h3>Reinforcing Pathway</h3>
-                            <p>Family resources + expectations + networks -> stronger school pathways -> better credentials -> higher earnings -> more assets transmitted to the next generation.</p>
+                            <p>Family resources + expectations + networks -> stronger school pathways -> better
+                                credentials -> higher earnings -> more assets transmitted to the next generation.</p>
                         </div>
                         <div class="si-card fragment fade-up" data-fragment-index="2">
                             <h3>Balancing Possibility</h3>
-                            <p>Education and religion can also buffer risk through mentorship, discipline, social support, and belonging. Outcomes depend on access and inclusion.</p>
+                            <p>Education and religion can also buffer risk through mentorship, discipline, social
+                                support, and belonging. Outcomes depend on access and inclusion.</p>
                         </div>
                     </div>
                     <div class="si-grid-3">
-                        <div class="si-card fragment fade-up" data-fragment-index="3"><h3>Family -> Education</h3><p>Guidance, norms, and early resources.</p></div>
-                        <div class="si-card fragment fade-up" data-fragment-index="4"><h3>Economy -> Education</h3><p>Neighborhood quality and affordability.</p></div>
-                        <div class="si-card fragment fade-up" data-fragment-index="5"><h3>Religion -> Family/Education</h3><p>Identity, roles, and value-based choices.</p></div>
+                        <div class="si-card fragment fade-up" data-fragment-index="3">
+                            <h3>Family -> Education</h3>
+                            <p>Guidance, norms, and early resources.</p>
+                        </div>
+                        <div class="si-card fragment fade-up" data-fragment-index="4">
+                            <h3>Economy -> Education</h3>
+                            <p>Neighborhood quality and affordability.</p>
+                        </div>
+                        <div class="si-card fragment fade-up" data-fragment-index="5">
+                            <h3>Religion -> Family/Education</h3>
+                            <p>Identity, roles, and value-based choices.</p>
+                        </div>
                     </div>
                 </div>
             </section>
 
-            <section class="si-slide">
+            <section class="slide-container">
                 <div class="justify-center si-wrap">
                     <p class="si-kicker">Final Takeaway</p>
                     <h2 class="si-title">Inequality Is Institutional, Intergenerational, and Personal</h2>
                     <div class="si-card fragment fade-in">
-                        <p class="leading-relaxed text-lg">My own experience shows this clearly: institutions can provide real support and opportunity, while also creating pressure, unequal expectations, and unequal judgment.</p>
-                        <p class="mt-3 leading-relaxed text-lg"><strong>Family</strong> sets the starting line. <strong>Education</strong> sorts and credentials. <strong>Economy</strong> rewards and penalizes. <strong>Religion</strong> shapes belonging and boundaries.</p>
+                        <p class="leading-relaxed text-lg">My own experience shows this clearly: institutions can
+                            provide real support and opportunity, while also creating pressure, unequal expectations,
+                            and unequal judgment.</p>
+                        <p class="mt-3 leading-relaxed text-lg"><strong>Family</strong> sets the starting line.
+                            <strong>Education</strong> sorts and credentials. <strong>Economy</strong> rewards and
+                            penalizes. <strong>Religion</strong> shapes belonging and boundaries.
+                        </p>
                     </div>
                     <div class="si-accent-line"></div>
-                    <p class="si-footer-note">Sources: Pew Research Center, U.S. Census Bureau, NCES, BLS, Federal Reserve.</p>
+                    <p class="si-footer-note">Sources: Pew Research Center, U.S. Census Bureau, NCES, BLS, Federal
+                        Reserve.</p>
                 </div>
             </section>
         </div>
