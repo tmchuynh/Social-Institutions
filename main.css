@@ -25,13 +25,7 @@
 .reveal:-ms-fullscreen {
   width: 100vw !important;
   height: 100vh !important;
-  background-color: transparent;
-  background: radial-gradient(
-    circle at 20% 20%,
-    #e0f2fe 0%,
-    #f8fafc 45%,
-    #f8fafc 100%
-  );
+  background-color: #000;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
@@ -146,12 +140,13 @@ li:before {
 }
 
 .si-wrap {
-  height: 100%;
   padding: 3rem 3.5rem;
   color: var(--si-ink);
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  z-index: 20;
 }
 
 .si-title {
@@ -175,15 +170,6 @@ li:before {
   line-height: 1.6;
 }
 
-.si-card {
-  background: var(--si-card);
-  border: 1px solid #dbe2ea;
-  border-radius: 18px;
-  padding: 1rem 1.15rem;
-  height: fit-content;
-  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.08);
-}
-
 .si-stat {
   font-family: "DM Serif Display", serif;
   font-size: 2.25rem;
@@ -197,12 +183,6 @@ li:before {
   border-radius: 999px;
   background: linear-gradient(90deg, #14b8a6 0%, #0ea5e9 45%, #f59e0b 100%);
   margin-top: 0.2rem;
-}
-
-.si-footer-note {
-  font-size: 0.78rem;
-  color: #64748b;
-  margin-top: auto;
 }
 
 .si-danger {
@@ -286,14 +266,4 @@ li:before {
 
 .toggle-fullscreen-btn.on .icon-fullscreen-enter {
   display: none;
-}
-
-@media (max-width: 900px) {
-  .si-wrap {
-    padding: 1.5rem;
-  }
-
-  .si-title {
-    font-size: 2rem;
-  }
 }
