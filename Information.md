@@ -51,17 +51,20 @@ Family is the starting line. It shapes confidence, expectations, and access to o
 ## Institution #2: Education
 
 ### What it does
+
 - Teaches academic skills and grants credentials (diplomas, degrees).
 - Sorts students into tracks and selective pathways.
 - Builds networks (mentors, references, internships, peers).
 
 ### Why it matters
-Education is a key mobility gateway that influences jobs, income, health, and long-term security.
+
+Education is a key mobility gateway that influences jobs, income, health, and long-term security. However, not everyone benefits from education in the same way. Sometimes, education can reinforce existing inequalities, for example when resources and opportunities are distributed unevenly across schools or when systemic barriers limit access for certain groups. For instance, underfunded public schools in low-income neighborhoods often have fewer advanced courses, outdated materials, and less experienced teachers, which can limit students' ability to compete with their peers from more affluent areas. In these cases, education may fail to achieve the intended social mobility.
 
 ### How it contributes to inequality
-- **Class:** Affordability and hidden curriculum (applications, internships, networking) benefit students with more family resources.
-- **Race/ethnicity:** Bias in discipline, tracking, and expectations can shape access to advanced opportunities.
-- **Gender:** Gender norms affect field choices, confidence, and leadership pathways.
+
+- Class: Affordability and hidden curriculum (applications, internships, networking) benefit students with more family resources. The hidden curriculum refers to the unwritten social expectations, skills, and norms that are not explicitly taught in class but are essential for navigating educational institutions successfully. Research by Pierre Bourdieu shows that cultural capital—certain language styles, mannerisms, and social behaviors valued by schools—tends to be more familiar to middle- and upper-class students, giving them significant advantages. Empirical studies have shown that students from higher-income families are more likely to participate in activities such as test preparation courses or unpaid internships, which are often crucial for college admissions and future success.
+- Race/ethnicity: Bias in discipline, tracking, and expectations can shape access to advanced opportunities. For example, students of color are often disproportionately suspended or disciplined more harshly than their peers, and they may be underrepresented in gifted or advanced placement programs. These patterns can limit access to challenging coursework and future opportunities. These disparities are driven by underlying mechanisms such as implicit bias among teachers and administrators, as well as structural racism that has shaped school policies and practices over time. Implicit bias can lead educators to make assumptions about students’ abilities and behavior based on their race or ethnicity, while structural racism influences which resources and opportunities are available to different groups of students.
+- **Gender**: Gender norms affect field choices, confidence, and leadership pathways. Importantly, class, race, and gender do not operate separately. This is explained by the concept of intersectionality, which refers to how different social identities and forms of disadvantage or privilege intersect to create unique experiences for individuals. For example, students who are both from low-income backgrounds and racial or ethnic minority groups may face overlapping barriers that limit access to advanced programs or opportunities. A Black girl from a working-class family, for instance, might face challenges related to both racial bias and limited family resources, as well as specific gender stereotypes about her capabilities. This intersectionality can compound disadvantages and shape educational outcomes in unique ways.
 
 ### Key statistics
 
