@@ -14,12 +14,14 @@
 - Transfers practical advantages: money, housing stability, social networks, and institutional knowledge.
 
 ### Why it matters
-Family is the starting line. It shapes confidence, expectations, and access to opportunity before school or work institutions fully take over.
+
+Family is the starting line. For example, children from families with more education and resources often arrive at school with stronger language skills, higher confidence, and familiarity with learning routines. Family connections can also open doors to extracurricular activities, tutoring, and advice about navigating institutions. These early advantages build social capital and set expectations that influence later access to opportunity before school or work institutions fully take over.
 
 ### How it contributes to inequality
-- **Class:** Families with wealth can buy advantages (safer neighborhoods, better schools, tutoring, activities, safety nets). Families with fewer resources have less buffer for emergencies and fewer connections.
-- **Race/ethnicity:** Unequal wealth across racial and ethnic groups affects stability and opportunity. Families also teach children how to navigate bias and stereotypes.
-- **Gender:** Traditional expectations can shape rules, freedom, labor division, and pressure differently for sons and daughters.
+
+- Class: Wealthy families can buy advantages (safer neighborhoods, better schools, tutoring, activities, safety nets). Families with fewer resources have less buffer for emergencies and fewer connections. For example, research from the National Center for Education Statistics has shown that children from high-income families are much more likely to attend high-performing schools and participate in extracurricular activities compared to their peers from low-income households. Additionally, studies consistently show that family income is strongly linked to children's educational attainment and future earnings. Overall, these findings reveal that family resources directly shape the academic and life opportunities available to children, often leading to persistent advantages or disadvantages.
+- Race/ethnicity: Unequal wealth across racial and ethnic groups affects stability and opportunity. Families also teach children how to navigate bias and stereotypes.
+- Gender: Traditional expectations can shape rules, freedom, labor division, and pressure differently for sons and daughters.
 
 ### Key statistics
 
