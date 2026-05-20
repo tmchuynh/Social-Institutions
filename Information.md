@@ -22,20 +22,25 @@ Family is the starting line. It shapes confidence, expectations, and access to o
 - **Gender:** Traditional expectations can shape rules, freedom, labor division, and pressure differently for sons and daughters.
 
 ### Key statistics
-1) **Bachelor's attainment gap by parents' education (Pew, 2021)**
+
+1. **Bachelor's attainment gap by parents' education (Pew, 2021)**
+
 - Ages 22-59 with no college-educated parent: **26%** have a bachelor's degree.
 - Ages 22-59 with at least one parent with a bachelor's degree: **70%**.
 - Source: https://www.pewresearch.org/social-trends/2021/05/18/first-generation-college-graduates-lag-behind-their-peers-on-key-economic-outcomes/
 
-2) **Income gap by parental education, even among BA holders (Pew, 2021)**
+2. **Income gap by parental education, even among BA holders (Pew, 2021)**
+
 - Median adjusted household income (2019): **$100,900** (parent has BA+) vs **$65,200** (parents without BA).
 - Source: https://www.pewresearch.org/social-trends/2021/05/18/first-generation-college-graduates-lag-behind-their-peers-on-key-economic-outcomes/
 
-3) **Wealth floor inequality (Pew, 2023)**
+3. **Wealth floor inequality (Pew, 2023)**
+
 - In 2021, **24% of Black households** and about **1 in 7 Hispanic households** had no wealth or were in debt, compared with about **11% overall**.
 - Source: https://www.pewresearch.org/race-and-ethnicity/2023/12/04/wealth-surged-in-the-pandemic-but-debt-endures-for-poorer-black-and-hispanic-families/
 
 ### Personal example
+
 - I was raised in a traditional Vietnamese/Chinese family with strict parents.
 - Family culture emphasized discipline, education, and protecting family reputation.
 - Being known as "the boss's daughter" adds pressure to represent my family in the community.
@@ -59,27 +64,34 @@ Education is a key mobility gateway that influences jobs, income, health, and lo
 - **Gender:** Gender norms affect field choices, confidence, and leadership pathways.
 
 ### Key statistics
-1) **Average net price differs by institution type (NCES, 2021-22)**
+
+1. **Average net price differs by institution type (NCES, 2021-22)**
+
 - Public 4-year: about **$15,200**.
 - Private nonprofit 4-year: about **$29,700**.
 - Source: https://nces.ed.gov/programs/coe/indicator/cua
 
-2) **Selective-college access differs by parents' education (Pew, 2021)**
+2. **Selective-college access differs by parents' education (Pew, 2021)**
+
 - Among college attendees, those with a parent with BA+ attended a more selective school at higher rates: **51% vs 23%**.
 - Source: https://www.pewresearch.org/social-trends/2021/05/18/first-generation-college-graduates-lag-behind-their-peers-on-key-economic-outcomes/
 
-3) **Enrollment rates by gender (NCES, 2022)**
+3. **Enrollment rates by gender (NCES, 2022)**
+
 - Ages 18-24: **44% female** vs **34% male**.
 - Source: https://nces.ed.gov/programs/coe/indicator/cpb/college-enrollment-rate
 
-4) **Enrollment rates by race/ethnicity among women (NCES, 2022)**
+4. **Enrollment rates by race/ethnicity among women (NCES, 2022)**
+
 - Asian: **64%**, White: **46%**, Black: **39%**, Hispanic: **39%**.
 - Source: https://nces.ed.gov/programs/coe/indicator/cpb/college-enrollment-rate
 
 ### Presentation line
+
 "Education is often described as a merit ladder, but access to affordability, selective pathways, and social guidance is uneven by class, race, and family background."
 
 ### Personal example
+
 - I identify as a first-generation college student, and my family treats education as a major responsibility.
 - I benefit from support and resources, but I also feel pressure to exceed a very high standard.
 - Community reputation can create assumptions that success is "easy," which can minimize the effort I put in.
@@ -102,35 +114,44 @@ Economic position strongly affects daily life choices, stress levels, educationa
 - **Gender:** Pay gaps and caregiving expectations reduce lifetime earnings and retirement security.
 
 ### Key statistics
-1) **U.S. median household income (Census, 2024)**
+
+1. **U.S. median household income (Census, 2024)**
+
 - Real median household income: **$83,730**.
 - Source: https://www.census.gov/library/publications/2025/demo/p60-286.html
 
-2) **Change from 2022 to 2023 (Census)**
+2. **Change from 2022 to 2023 (Census)**
+
 - Increased **4.0%** from **$77,540** to **$80,610**.
 - Source: https://www.census.gov/library/publications/2024/demo/p60-282.html
 
-3) **Change from 2023 to 2024 (Census)**
+3. **Change from 2023 to 2024 (Census)**
+
 - Median household income in 2024 was **not statistically different** from 2023.
 - Source: https://www.census.gov/library/publications/2025/demo/p60-286.html
 
-4) **Gender pay gap snapshot (BLS, 2024)**
+4. **Gender pay gap snapshot (BLS, 2024)**
+
 - Women's median weekly earnings were **82.7%** of men's among full-time wage and salary workers.
 - Source: https://www.bls.gov/opub/reports/womens-earnings/2024/home.htm
 
-5) **Female-to-male earnings ratio (Census, full-time, year-round workers, 2024)**
+5. **Female-to-male earnings ratio (Census, full-time, year-round workers, 2024)**
+
 - The ratio was **80.9%** in 2024, down from **82.7%** in 2023.
 - Source: https://www.census.gov/library/publications/2025/demo/p60-286.html
 
-6) **Racial wealth inequality persists (Federal Reserve SCF/FEDS Notes)**
+6. **Racial wealth inequality persists (Federal Reserve SCF/FEDS Notes)**
+
 - Median wealth differs substantially by race/ethnicity over time.
 - Source: https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-accessible-20231018.htm
 
-7) **Zero/negative wealth rates (Pew, 2021 data)**
+7. **Zero/negative wealth rates (Pew, 2021 data)**
+
 - **24% of Black households**, about **1 in 7 Hispanic households**, and about **11% overall** had no wealth or were in debt.
 - Source: https://www.pewresearch.org/race-and-ethnicity/2023/12/04/wealth-surged-in-the-pandemic-but-debt-endures-for-poorer-black-and-hispanic-families/
 
 ### Personal example
+
 - My family's economic success gave me clear opportunity advantages (transportation, stable housing, time to focus on school).
 - At the same time, people may assume my achievements are only because of money, which adds pressure to prove my work and merit.
 
@@ -154,20 +175,25 @@ Economic position strongly affects daily life choices, stress levels, educationa
 - **Race/ethnicity:** U.S. religious life remains highly segregated in many places, and religious communities often reflect broader racial and economic inequality.
 
 ### Key statistics
-1) **Faith strengthened during COVID-19 (Pew, 2021 report on 2020 survey)**
+
+1. **Faith strengthened during COVID-19 (Pew, 2021 report on 2020 survey)**
+
 - In the U.S., **28%** said their own religious faith became stronger during the pandemic, one of the highest shares in the countries surveyed.
 - Source: https://www.pewresearch.org/global/2021/01/27/more-americans-than-people-in-other-advanced-economies-say-covid-19-has-strengthened-religious-faith/
 
-2) **Parents transmit religion to children (Pew, 2025 U.S. survey)**
+2. **Parents transmit religion to children (Pew, 2025 U.S. survey)**
+
 - **46%** of U.S. parents with children under 18 say their child regularly says prayers at night.
 - **63%** report doing at least one regular religious practice with/for children.
 - Source: https://www.pewresearch.org/religion/2025/12/15/how-parents-are-raising-their-children-religiously/
 
-3) **U.S. religion trend update (Pew, 2025)**
+3. **U.S. religion trend update (Pew, 2025)**
+
 - Pew reports the long decline of Christianity in the U.S. has slowed and may have leveled off.
 - Source: https://www.pewresearch.org/religion/2025/02/26/decline-of-christianity-in-the-us-has-slowed-may-have-leveled-off/
 
 ### Personal example
+
 - When I began going to church after high school, I learned more about myself and how I want to live.
 - I built relationships with people who support me through hard moments and intentionally apply faith in daily life.
 - Religion gave me both a personal support system and a stronger sense of identity and purpose.
@@ -191,10 +217,10 @@ Wealth, guidance, and social networks (including religious networks) -> stronger
 Education and religion can both create mobility and support through mentoring, discipline, and community. But background still strongly shapes outcomes, so these institutions can either reduce barriers or reinforce inequality depending on access and inclusion.
 
 ### Final takeaway
-These institutions do not operate separately:
-- **Family** sets the starting line.
-- **Education** sorts and credentials people.
-- **Economy** rewards and penalizes people unevenly.
-- **Religion** shapes values, belonging, and social boundaries.
 
-My experience shows that institutions can provide real advantages and support, while also creating pressure, unequal expectations, and unequal access.
+The intersection of family, education, economy, and religion highlights the importance of understanding how these institutions collectively shape life chances. Policymakers, educators, and community leaders must consider these connections when seeking to promote equity and opportunity. For instance, policymakers could design school funding formulas that allocate additional resources to schools serving students from low-income families, recognizing the connection between family background, educational opportunity, and future economic mobility. Community leaders might also partner with local faith organizations to offer mentoring and after-school programs that strengthen support networks for at-risk youth. By addressing these intersections with targeted strategies, leaders can help break cycles of disadvantage and open new pathways to more equitable outcomes. These institutions do not operate separately:
+
+- Family sets the starting line.
+- Education sorts and credentials people.
+- Economy rewards and penalizes people unevenly.
+- Religion shapes values, belonging, and social boundaries.
