@@ -132,18 +132,6 @@ br {
   line-height: 1.6;
 }
 
-.si-grid-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-}
-
-.si-grid-3 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-}
-
 .si-card {
   background: var(--si-card);
   border: 1px solid #dbe2ea;
@@ -159,23 +147,30 @@ br {
   margin-bottom: 0.5rem;
 }
 
-.si-card p,
-.si-card li {
-  color: #334155;
+h4 {
   font-size: 0.95rem;
-  line-height: 1.45;
+  font-weight: 600;
+  margin-bottom: 0.45rem;
 }
 
-.si-chip {
+p,
+li {
+  color: #334155;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+li {
+  margin-left: 1.25rem;
+  position: relative;
+}
+
+li:before {
+  content: "•";
+  color: var(--si-accent-dark);
   display: inline-block;
-  background: #ecfeff;
-  color: #155e75;
-  border: 1px solid #a5f3fc;
-  border-radius: 999px;
-  padding: 0.25rem 0.65rem;
-  font-size: 0.72rem;
-  font-weight: 700;
-  margin-right: 0.4rem;
+  width: 1em;
+  margin-left: -1em;
 }
 
 .si-stat {
