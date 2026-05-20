@@ -124,6 +124,14 @@ li {
   line-height: 1.65;
 }
 
+p {
+  margin-bottom: 0.2rem;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
 li {
   margin-left: 1.25rem;
   position: relative;
