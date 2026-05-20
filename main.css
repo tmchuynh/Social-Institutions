@@ -81,7 +81,7 @@ br {
   content: "";
   margin: 0;
   padding: 0;
-  line-height: 0.5;
+  line-height: 0.75;
 }
 
 h1,
@@ -90,12 +90,15 @@ h2 {
   font-size: 3rem;
   line-height: 1.05;
   letter-spacing: -0.03em;
-  margin-top: -0.25rem;
 }
 
 h1 {
   font-size: 4rem;
   line-height: 1.1;
+}
+
+h2 {
+  margin-top: -1rem;
 }
 
 h3 {
@@ -139,8 +142,8 @@ li {
 }
 
 li:before {
-  content: "•";
-  color: var(--si-accent-dark);
+  content: "\25CB";
+  color: var(--si-ink);
   display: inline-block;
   width: 1em;
   margin-left: -1em;
@@ -198,14 +201,14 @@ li:before {
 .si-accent-line {
   height: 5px;
   border-radius: 999px;
-  background: linear-gradient(90deg, #14b8a6 0%, #0ea5e9 45%, #f59e0b 100%);
+  background: linear-gradient(90deg, #f007e8 0%, #14b8a6 45%, #0ea5e9 100%);
   margin-top: 0.2rem;
 }
 
 .si-divider-line {
   height: 3px;
   border-radius: 999px;
-  background: linear-gradient(90deg, #14b8a6 0%, #0ea5e9 45%, #f59e0b 100%);
+  background: linear-gradient(90deg, #f007e8 0%, #14b8a6 45%, #0ea5e9 100%);
   margin-top: 0.1rem;
   margin-bottom: 0.2rem;
 }
