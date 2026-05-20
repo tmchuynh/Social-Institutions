@@ -101,23 +101,31 @@ Economic position strongly affects daily life choices, stress levels, educationa
 - **Gender:** Pay gaps and caregiving expectations reduce lifetime earnings and retirement security.
 
 ### Key statistics
-1) **U.S. median household income (Census, 2023)**
-- Real median household income: **$80,610**.
-- Source: https://www.census.gov/library/publications/2024/demo/p60-282.html
+1) **U.S. median household income (Census, 2024)**
+- Real median household income: **$83,730**.
+- Source: https://www.census.gov/library/publications/2025/demo/p60-286.html
 
 2) **Change from 2022 to 2023 (Census)**
 - Increased **4.0%** from **$77,540** to **$80,610**.
 - Source: https://www.census.gov/library/publications/2024/demo/p60-282.html
 
-3) **Gender pay gap snapshot (BLS, 2023)**
-- Women's median weekly earnings were **83.6%** of men's among full-time workers.
-- Source: https://www.bls.gov/opub/ted/2024/womens-earnings-were-83-6-of-mens-in-2023.htm
+3) **Change from 2023 to 2024 (Census)**
+- Median household income in 2024 was **not statistically different** from 2023.
+- Source: https://www.census.gov/library/publications/2025/demo/p60-286.html
 
-4) **Racial wealth inequality persists (Federal Reserve SCF/FEDS Notes)**
+4) **Gender pay gap snapshot (BLS, 2024)**
+- Women's median weekly earnings were **82.7%** of men's among full-time wage and salary workers.
+- Source: https://www.bls.gov/opub/reports/womens-earnings/2024/home.htm
+
+5) **Female-to-male earnings ratio (Census, full-time, year-round workers, 2024)**
+- The ratio was **80.9%** in 2024, down from **82.7%** in 2023.
+- Source: https://www.census.gov/library/publications/2025/demo/p60-286.html
+
+6) **Racial wealth inequality persists (Federal Reserve SCF/FEDS Notes)**
 - Median wealth differs substantially by race/ethnicity over time.
 - Source: https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-accessible-20231018.htm
 
-5) **Zero/negative wealth rates (Pew, 2021 data)**
+7) **Zero/negative wealth rates (Pew, 2021 data)**
 - **24% of Black households**, about **1 in 7 Hispanic households**, and about **11% overall** had no wealth or were in debt.
 - Source: https://www.pewresearch.org/race-and-ethnicity/2023/12/04/wealth-surged-in-the-pandemic-but-debt-endures-for-poorer-black-and-hispanic-families/
 
@@ -145,14 +153,18 @@ Economic position strongly affects daily life choices, stress levels, educationa
 - **Race/ethnicity:** U.S. religious life remains highly segregated in many places, and religious communities often reflect broader racial and economic inequality.
 
 ### Key statistics
-1) **Faith strengthened during COVID-19 (Pew, 2020 cross-national survey)**
+1) **Faith strengthened during COVID-19 (Pew, 2021 report on 2020 survey)**
 - In the U.S., **28%** said their own religious faith became stronger during the pandemic, one of the highest shares in the countries surveyed.
-- Source: Pew Research Center, 2020 Global Attitudes Survey (chart: "Americans most likely to say pandemic has made their religious faith stronger").
+- Source: https://www.pewresearch.org/global/2021/01/27/more-americans-than-people-in-other-advanced-economies-say-covid-19-has-strengthened-religious-faith/
 
 2) **Parents transmit religion to children (Pew, 2025 U.S. survey)**
 - **46%** of U.S. parents with children under 18 say their child regularly says prayers at night.
 - **63%** report doing at least one regular religious practice with/for children.
-- Source: Pew Research Center, 2025 U.S. adults survey (chart on household religious practices).
+- Source: https://www.pewresearch.org/religion/2025/12/15/how-parents-are-raising-their-children-religiously/
+
+3) **U.S. religion trend update (Pew, 2025)**
+- Pew reports the long decline of Christianity in the U.S. has slowed and may have leveled off.
+- Source: https://www.pewresearch.org/religion/2025/02/26/decline-of-christianity-in-the-us-has-slowed-may-have-leveled-off/
 
 ### Personal example
 - When I began going to church after high school, I learned more about myself and how I want to live.
