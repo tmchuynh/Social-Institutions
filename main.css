@@ -90,7 +90,7 @@ h2 {
   font-size: 3rem;
   line-height: 1.05;
   letter-spacing: -0.03em;
-  margin-bottom: 0.35rem;
+  margin-top: -0.25rem;
 }
 
 h1 {
@@ -178,6 +178,7 @@ li:before {
   display: flex;
   flex-direction: column;
   z-index: 20;
+  gap: 1rem;
 }
 
 .si-sub {
