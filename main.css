@@ -12,6 +12,12 @@
   --subtext-color: #374151;
 }
 
+:not(:root):fullscreen::backdrop {
+    position: fixed;
+    inset: 0px;
+    background: transparent;
+}
+
 .reveal-viewport {
   width: calc(1280px * 1.15);
   height: calc(720px * 1.15);
