@@ -719,24 +719,6 @@
             minScale: 0.2,
             maxScale: 2.0
         });
-
-        const fullscreenToggle = document.getElementById("fullscreenToggle");
-        const reveal = document.querySelector(".reveal");
-
-        function syncFullscreenIcon() {
-            const isFs = !!document.fullscreenElement;
-            fullscreenToggle.classList.toggle("is-fullscreen", isFs);
-        }
-
-        fullscreenToggle.addEventListener("click", () => {
-            if (!document.fullscreenElement) {
-                reveal.requestFullscreen?.();
-            } else {
-                document.exitFullscreen?.();
-            }
-        });
-
-        document.addEventListener("fullscreenchange", syncFullscreenIcon);
     </script>
 </body>
 

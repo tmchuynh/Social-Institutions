@@ -1,7 +1,7 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
   const toggleBtn = document.getElementById("fullscreenToggle");
   const revealElement = document.querySelector(".reveal");
-  
+
   if (!toggleBtn) {
     console.error("Fullscreen button not found");
     return;
@@ -16,12 +16,12 @@ document.addEventListener("DOMContentLoaded", function() {
     toggleBtn.addEventListener("click", function (e) {
       e.preventDefault();
       e.stopPropagation();
-      
+
       console.log("Fullscreen button clicked");
-      
+
       // Check if currently in fullscreen
       const isFullscreen =
-        document.fullscreenElement || 
+        document.fullscreenElement ||
         document.webkitFullscreenElement ||
         document.mozFullScreenElement ||
         document.msFullscreenElement;
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
         console.log("Entering fullscreen");
         // Enter fullscreen on the reveal element
         if (revealElement.requestFullscreen) {
-          revealElement.requestFullscreen().catch(err => {
+          revealElement.requestFullscreen().catch((err) => {
             console.error("Error entering fullscreen:", err);
           });
         } else if (revealElement.webkitRequestFullscreen) {
@@ -68,7 +68,10 @@ document.addEventListener("DOMContentLoaded", function() {
         document.mozFullScreenElement ||
         document.msFullscreenElement;
 
-      console.log("Fullscreen state changed:", isFullscreen ? "FULLSCREEN" : "NORMAL");
+      console.log(
+        "Fullscreen state changed:",
+        isFullscreen ? "FULLSCREEN" : "NORMAL",
+      );
 
       if (isFullscreen) {
         toggleBtn.classList.add("on");
