@@ -74,6 +74,12 @@ strong {
   font-weight: 900;
 }
 
+u {
+  text-decoration-thickness: .75px;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--si-accent-dark);
+}
+
 br {
   display: block;
   content: "";
@@ -93,6 +99,14 @@ h2 {
 h1 {
   font-size: 4rem;
   line-height: 1.1;
+}
+
+.sub-headline {
+  font-family: "Lora", serif;
+  font-size: 28px;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--off-gray);
 }
 
 h2 {
@@ -213,12 +227,10 @@ li:before {
 
 .si-danger {
   color: var(--si-warn);
-  font-weight: 700;
 }
 
 .si-gold {
   color: var(--si-gold);
-  font-weight: 700;
 }
 
 .toggle-fullscreen-btn {
