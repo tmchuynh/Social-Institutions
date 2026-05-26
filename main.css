@@ -142,8 +142,8 @@ li {
 }
 
 li:before {
-  content: "\25CB";
-  color: var(--si-ink);
+  content: "•";
+  color: var(--si-accent-dark);
   display: inline-block;
   width: 1em;
   margin-left: -1em;
